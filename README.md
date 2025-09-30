@@ -1,3 +1,4 @@
 The file contains two parts:
-- Comparing different Dimensionality Reduction algorithms on load_digits dataset and their visulaization
-- Comparing different Classification algorithms on the same dataset
+-Machine Learning: projects and codes for different supervised and supervised algorithms and Reinforcement Learning
+-Deep Learning: 
+
